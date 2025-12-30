@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 .env
 k8s/mysql-secret.yaml
+.vscode/
